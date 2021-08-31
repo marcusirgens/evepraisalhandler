@@ -1,0 +1,66 @@
+{
+  "id": "11g8st",
+  "created": 1630412102,
+  "kind": "listing",
+  "market_name": "jita",
+  "totals": {
+    "buy": 477400,
+    "sell": 477500,
+    "volume": 2500
+  },
+  "items": [
+    {
+      "name": "Heron",
+      "typeID": 605,
+      "typeName": "Heron",
+      "typeVolume": 2500,
+      "quantity": 1,
+      "prices": {
+        "all": {
+          "avg": 334397.0425668957,
+          "max": 506100000,
+          "median": 524900,
+          "min": 10200,
+          "percentile": 600000,
+          "stddev": 12650782.214831825,
+          "volume": 1598,
+          "order_count": 58
+        },
+        "buy": {
+          "avg": 97884.3186191286,
+          "max": 477400,
+          "median": 100800,
+          "min": 10200,
+          "percentile": 477400,
+          "stddev": 182213.71459025246,
+          "volume": 453,
+          "order_count": 19
+        },
+        "sell": {
+          "avg": 543691.1209265928,
+          "max": 506100000,
+          "median": 534600,
+          "min": 477500,
+          "percentile": 480000,
+          "stddev": 14940689.744635519,
+          "volume": 1145,
+          "order_count": 39
+        },
+        "updated": "2021-08-31T12:10:19.307944552Z",
+        "strategy": "orders"
+      },
+      "meta": {}
+    }
+  ],
+  "raw": "Heron",
+  "parser_lines": {
+    "listing": [
+      0
+    ]
+  },
+  "unparsed": {},
+  "private": false,
+  "price_percentage": 100,
+  "live": false,
+  "expire_minutes": 21600
+}
